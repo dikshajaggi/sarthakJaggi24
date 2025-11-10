@@ -115,7 +115,7 @@ const expCards = [
   {
     review: "Tech Stack - JavaScript, React, Redux, Context API, Tailwind CSS, Framer Motion",
     imgPath: "/images/exp1.png",
-    logoPath: "/images/logo1.png",
+    logoPath: "/images/job.png",
     title: "Frontend Developer - Dwarka Orthodontics",
     date: "December 2023 - September 2025",
     responsibilities: [
@@ -127,7 +127,7 @@ const expCards = [
   {
     review: "Tech Stack - JavaScript, React, Tailwind CSS, Python, Fast API, SQL",
     imgPath: "/images/exp2.png",
-    logoPath: "/images/logo2.png",
+    logoPath: "/images/job.png",
     title: "Full Stack Developer (Internship)- Intern Crafters",
     date: "December 2022 - September 2023",
     responsibilities: [
