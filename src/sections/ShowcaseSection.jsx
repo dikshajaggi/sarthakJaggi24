@@ -50,7 +50,7 @@ const AppShowcase = () => {
         <div className="showcaselayout">
             <div ref={rydeRef} className="first-project-wrapper">
               <a href="https://smilelytics.netlify.app/" target="_blank" rel="noopener noreferrer">
-              <div className="image-wrapper">
+              <div className="image-wrapper bg-[#FFEFDB]">
                 <img src="/images/project1.png" alt="Ryde App Interface" />
               </div>
               <div className="text-content">
